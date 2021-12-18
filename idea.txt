@@ -1,0 +1,4 @@
+The first project:
+- Make sense of data presentation
+- Make a simple time series plot
+
