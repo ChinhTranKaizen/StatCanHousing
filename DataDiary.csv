@@ -1,3 +1,5 @@
 ,date,task,description
 0,2022-01-09 11:48:30.108339,0,creation of the DataDiary
 1,2022-01-09 20:46:43.626428,1,explore raw data dimension and format
+2,2022-01-09 21:29:39.628691,2,Reformat the DATE as yyyy/mm
+3,2022-01-09 21:31:04.039452,1,Plot the data for Canada new housing price index
