@@ -7,8 +7,5 @@ The first project:
     - Inflation rate
     - Immigration rate
     - Cost of building material
-    - Population growth
-
-
-
-
+    - Population and its growth
+    - Bank of Canada interest rate
