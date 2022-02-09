@@ -4,6 +4,10 @@ Motivation:
 2. If it is better to rent or to purchase a place.
 3. How house prices change over the last 10,20,30,40 years.
 4. Which province is the best place for me to a. rent or b. buy in the next 5 year considering only house price.
+5. Explore change in new house built
+6. Explore change in Bank of Canada interest rate over time
+7. Explore population change in each province.
+
 Actionable tasks:
 - Get the data of all provinces new housing price index
 - Combine Canada vs other provinces new housing price index in 1 plot
