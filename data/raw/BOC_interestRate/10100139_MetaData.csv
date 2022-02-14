@@ -1,0 +1,76 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Bank of Canada, money market and other interest rates","10100139","176-0048","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010013901",1,"CURRENT - a cube available to the public and that is current","Daily","1981-02-06","2022-02-10","2",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Financial market statistics",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"2","Government of Canada Treasury Bills, 1-month (composite rates)","","1","","t",,
+"2","Government of Canada Treasury Bills, 2-month (composite rates)","","2","","t",,
+"2","Government of Canada Treasury Bills, 3-month (composite rates)","","3","","t",,
+"2","Government of Canada Treasury Bills, 6-month (composite rates)","","4","","t",,
+"2","Government of Canada Treasury Bills, 1-year (composite rates)","","5","","t",,
+"2","Bankers' acceptances, 1-month (composite rates)","","6","","t",,
+"2","Bankers' acceptances, 2-month (composite rates)","","7","","t",,
+"2","Bankers' acceptances, 3-month (composite rates)","","8","","t",,
+"2","Commercial paper, 1-month (composite rates)","","9","","t",,
+"2","Commercial paper, 2-month (composite rates)","","10","","t",,
+"2","Commercial paper, 3-month (composite rates)","","11","","t",,
+"2","Overnight money market financing","","12","","",,
+"2","Government of Canada benchmark bond yields, 2 year","","13","","",,
+"2","Government of Canada benchmark bond yields, 3 year","","14","","",,
+"2","Government of Canada benchmark bond yields, 5 year","","15","","",,
+"2","Government of Canada benchmark bond yields, 7 year","","16","","",,
+"2","Government of Canada benchmark bond yields, 10 year","","17","","",,
+"2","Government of Canada benchmark bond yields, long term","","18","","",,
+"2","Real return benchmark bond yield, long term","","19","","",,
+"2","Government of Canada marketable bonds, 1 to 3 years","","20","","",,
+"2","Government of Canada marketable bonds, 3 to 5 years","","21","","",,
+"2","Government of Canada marketable bonds, 5 to 10 years","","22","","",,
+"2","Government of Canada marketable bonds, over 10 years","","23","","",,
+"2","Treasury Bills, 1-month","","24","","",,
+"2","Treasury Bills, 2-month","","25","","",,
+"2","Treasury Bills, 3-month","","26","","",,
+"2","Treasury Bills, 6-month","","27","","",,
+"2","Treasury Bills, 1-year","","28","","",,
+"2","Bankers' acceptances rate, 1-month","","29","","t",,
+"2","Prime corporate paper rate, 2-month","","33","","t",,
+"2","Bankers' acceptances rate, 2-month","","30","","t",,
+"2","Bankers' acceptances rate, 3-month","","31","","t",,
+"2","Prime corporate paper rate, 1-month","","32","","t",,
+"2","Prime corporate paper rate, 3-month","","34","","t",,
+"2","Overnight money market financing","","35","","t",,
+"2","Operating band, low","","36","","",,
+"2","Operating band, high","","37","","",,
+"2","Bank rate","","38","","",,
+"2","Target rate","","39","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"7502","Bank of Canada"
+
+"Subject Code","Subject Name"
+"10","Government"
+
+"Note ID",Note
+1,"A numeric value "0" indicates a weekend."
+
+"Correction ID","Correction Date","Correction Note"
