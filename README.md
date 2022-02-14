@@ -19,3 +19,5 @@ As an immigrant with modest financial background, I want to see:
     - Cost of building material
     - Population and its growth
     - Bank of Canada interest rate
+- Add auto update dataset using Canada stat API
+- "Beautify" readme.md report
