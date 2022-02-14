@@ -12,8 +12,6 @@ As an immigrant with modest financial background, I want to see:
 # Improvement ideas
 - Combine Canada vs other provinces new housing price index in 1 plot
 - Explore the land only and house only price index
-- Explore the trend with other economical and social data:
-    - Cost of building material
-    - Bank of Canada interest rate
+- Explore the trend with other economical and social data
 - Add auto update dataset using Canada stat API
 - "Beautify" readme.md report
