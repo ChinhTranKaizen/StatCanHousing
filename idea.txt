@@ -9,7 +9,7 @@ Motivation:
 7. Explore population change in each province.
 
 Actionable tasks:
-- Get the data of all provinces new housing price index
+- Get the data of all provinces new housing price index [DONE]
 - Combine Canada vs other provinces new housing price index in 1 plot
 - Explore the land only and house only price index
 - Explore the trend with other economical and social data:
