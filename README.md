@@ -1,17 +1,12 @@
 # Motivation
-As an immigrant with modest financial background, I want to see:
-1. If it is possible to purchase a home in canada in the future.
-2. If it is better to rent or to purchase a place.
-3. How house prices change over the last 10,20,30,40 years.
-4. Which province is the best place for me to a. rent or b. buy in the next 5 year considering only house price.
-5. Explore change in new house built
-6. Explore change in Bank of Canada interest rate over time
-7. Explore population change in each province.
-# Finding
 
-# Improvement ideas
-- Combine Canada vs other provinces new housing price index in 1 plot
-- Explore the land only and house only price index
-- Explore the trend with other economical and social data
-- Add auto update dataset using Canada stat API
-- "Beautify" readme.md report
+Recent inflation number and house price records have constantly make news. This report is inspired by [the analysis carried out by Bank of Canada in 2015](https://www.bankofcanada.ca/2015/08/long-term-evolution-house-prices/) using more up-to-date data from Statistics Canada.
+
+# Summarized findings
+
+# Future work
+- Change normalization method to a more accurate one
+
+# Set back of the current work
+- Normalizing time series non-stationary economic data is done currently using MinMaxScaler, which is not accurate but is a quick way to produce proof of concept.
+    - To lead to a more accurate result, and to prepare the time series data for any future machine learning tasks, one should employ more sophisticated tool such as [adaptive normalization](https://homepages.dcc.ufmg.br/~glpappa/papers/Ogasawaraetal-2010-IJCNN.pdf) or [normalization with deep-learning](https://arxiv.org/pdf/1902.07892.pdf)
