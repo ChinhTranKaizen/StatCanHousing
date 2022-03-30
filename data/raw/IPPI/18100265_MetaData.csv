@@ -1,0 +1,61 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Industrial product price index, by major product group, monthly","18100265",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810026501",1,"CURRENT - a cube available to the public and that is current","Monthly","1956-01-01","2022-02-01","2",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","North American Product Classification System (NAPCS)",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"2","Total Industrial product price index (IPPI), excluding energy and petroleum products","","2","1","",,
+"2","Meat, fish and dairy products","[P11]","3","1","",,
+"2","Fruit, vegetables, feed and other food products","[P12]","4","1","",,
+"2","Beverages (except juices)","[P13]","5","1","",,
+"2","Tobacco products","[P14]","6","1","",,
+"2","Cannabis products (except seeds, plants, plant parts and fresh cannabis)","[P15]","7","1","",,
+"2","Textile and leather products","[P21]","8","1","",,
+"2","Clothing, footwear and accessories","[P22]","9","1","",,
+"2","Chemicals and chemical products","[P31]","10","1","",,
+"2","Plastic and rubber products","[P32]","11","1","",,
+"2","Lumber and other wood products","[P41]","12","1","",,
+"2","Pulp and paper products","[P42]","13","1","",,
+"2","Energy and petroleum products","[P51]","14","1","",,
+"2","Primary ferrous metal products","[P61]","15","1","",,
+"2","Primary non-ferrous metal products","[P62]","16","1","",,
+"2","Fabricated metal products and construction materials","[P63]","17","1","",,
+"2","Motorized and recreational vehicles","[P71]","18","1","",,
+"2","Machinery and equipment","[P72]","19","1","",,
+"2","Electrical, electronic, audiovisual and telecommunication products","[P73]","20","1","",,
+"2","Furniture and fixtures","[P74]","21","1","",,
+"2","Cement, glass, and other non-metallic mineral products","[P81]","22","1","",,
+"2","Packaging materials and containers","[P91]","23","1","",,
+"2","Miscellaneous products","[P92]","24","1","",,
+"2","Total, Industrial product price index (IPPI)","","1","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"2318","Industrial Product Price Index"
+
+"Subject Code","Subject Name"
+"18","Prices and price indexes"
+
+"Note ID",Note
+1,"This monthly table replaces table 18-10-0029 which has been archived. This table contains monthly data starting from January 1956."
+
+"Correction ID","Correction Date","Correction Note"
