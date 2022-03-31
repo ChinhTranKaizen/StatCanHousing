@@ -71,6 +71,9 @@ Recent inflation number and house price records in Canada have constantly make n
         ![Fig 16. NHPI vs IPPI for Canada and Top 3 economically biggest provinces from January 2019](https://github.com/ChinhTranKaizen/StatCanHousing/blob/main/Figures/Fig16.png?raw=true)
 
         - Interestingly, if we look at Quebec case, we can see in the figure that its NHPI increased before there were a change in IPPI of construction product. Thus, there remains an interesting case to look into to find the possible elements that could explain this behavior of NHPI of Quebec.
+
+        - Finally, we can see their exists a delayed in change of rate between the IPPI and NHPI of Canada and the provinces. Thus, carrying out the cross-correlation analysis between IPPI and NHPI time series during this time segment would be eye-opening on the effect of construction material price on new housing price.
+
 # Future work
 - Change normalization method to a more accurate one
 
@@ -78,4 +81,4 @@ Recent inflation number and house price records in Canada have constantly make n
 
 - Look more closely at BC case where NHPI had a bowl shaped curve from 1995 and 2005
 
-- To prepare the time series data for any future machine learning tasks, I should try to employ sophisticated time-series normalizing tool such as [adaptive normalization](https://homepages.dcc.ufmg.br/~glpappa/papers/Ogasawaraetal-2010-IJCNN.pdf) or [normalization with deep-learning](https://arxiv.org/pdf/1902.07892.pdf), which has [a github page](https://github.com/gdepalma93/PyTorch-Timeseries-Normalization).
+- To prepare the time series data for cross-correlation analysis or any future machine learning tasks, I should try to employ sophisticated time-series normalizing tool such as [adaptive normalization](https://homepages.dcc.ufmg.br/~glpappa/papers/Ogasawaraetal-2010-IJCNN.pdf) or [normalization with deep-learning](https://arxiv.org/pdf/1902.07892.pdf), which has [a github page](https://github.com/gdepalma93/PyTorch-Timeseries-Normalization).
