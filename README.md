@@ -5,7 +5,7 @@ Recent inflation number and house price records in Canada have constantly make n
 # Summarized findings
 - Overview of New housing price index (NHPI) in Canada and the 5 economically biggest province in Canada
     - From Fig 1 we can see that from 1990, new house price index (NHPI) in general for Canada remained relatively stable during 1990-1999, grew linearly during 2010-2018, experienced exponential growth during 2000-2008 and 2019-2021. Suprisingly, Canada's NHPI is only minimally affected by financial crisis in 2008.
-    ![Fig 1. NHPI for total house value from 1990 to 2022](https://github.com/ChinhTranKaizen/StatCanHousing/blob/main/Figures/Fig1.png "NHPI for total house value from 1990 to 2022")
+    ![Fig 1. NHPI for total house value from 1990 to 2022](https://github.com/ChinhTranKaizen/StatCanHousing/blob/main/Figures/Fig1.png?raw=true)
 
 # Future work
 - Change normalization method to a more accurate one
