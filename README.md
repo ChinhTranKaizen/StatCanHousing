@@ -5,7 +5,7 @@ Recent inflation number and house price records in Canada have constantly make n
 # Summarized findings
 - Overview of New housing price index (NHPI) in Canada and the 5 economically biggest province in Canada
     - From Fig 1 we can see that from 1990, new house price index (NHPI) in general for Canada remained relatively stable during 1990-1999, grew linearly during 2010-2018, experienced exponential growth during 2000-2008 and 2019-2021. Suprisingly, Canada's NHPI is only minimally affected by financial crisis in 2008.
-    ![Fig 1. NHPI for total house value from 1990 to 2022](/StatCanHousing/Figures/Fig1.png?raw=true "NHPI for total house value from 1990 to 2022")
+    ![Fig 1. NHPI for total house value from 1990 to 2022](https://github.com/ChinhTranKaizen/StatCanHousing/blob/main/Figures/Fig1.png "NHPI for total house value from 1990 to 2022")
 
 # Future work
 - Change normalization method to a more accurate one
@@ -14,6 +14,4 @@ Recent inflation number and house price records in Canada have constantly make n
 
 - Look more closely at BC case where NHPI had a bowl shaped curve from 1995 and 2005
 
-# Set back of the current work
-- Normalizing time series non-stationary economic data is done currently using MinMaxScaler, which is not accurate but is a quick way to produce proof of concept.
-    - To lead to a more accurate result, and to prepare the time series data for any future machine learning tasks, one should employ more sophisticated tool such as [adaptive normalization](https://homepages.dcc.ufmg.br/~glpappa/papers/Ogasawaraetal-2010-IJCNN.pdf) or [normalization with deep-learning](https://arxiv.org/pdf/1902.07892.pdf), which has [a github page](https://github.com/gdepalma93/PyTorch-Timeseries-Normalization).
+- To prepare the time series data for any future machine learning tasks, I should try to employ sophisticated time-series normalizing tool such as [adaptive normalization](https://homepages.dcc.ufmg.br/~glpappa/papers/Ogasawaraetal-2010-IJCNN.pdf) or [normalization with deep-learning](https://arxiv.org/pdf/1902.07892.pdf), which has [a github page](https://github.com/gdepalma93/PyTorch-Timeseries-Normalization).
