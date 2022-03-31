@@ -1,6 +1,10 @@
+
+
 # Motivation
 
 Recent inflation number and house price records in Canada have constantly make news. This report is inspired by [the analysis carried out by Bank of Canada in 2015](https://www.bankofcanada.ca/2015/08/long-term-evolution-house-prices/), however, I want to use more up-to-date data from Statistics Canada.
+
+**please note that due to limited storage of git repos, the csv files referenced in DataAnalysis.ipynb need to be redownload using metadata files in data/raw**
 
 # Summarized findings
 - Overview of New housing price index (NHPI) in Canada and the 5 economically biggest province in Canada
