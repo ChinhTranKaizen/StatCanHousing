@@ -72,7 +72,7 @@ Recent inflation number and house price records in Canada have constantly make n
 
         - Interestingly, if we look at Quebec case, we can see in the figure that its NHPI increased before there were a change in IPPI of construction product. Thus, there remains an interesting case to look into to find the possible elements that could explain this behavior of NHPI of Quebec.
 
-        - Finally, we can see their exists a delayed in change of rate between the IPPI and NHPI of Canada and the provinces. Thus, carrying out the cross-correlation analysis between IPPI and NHPI time series during this time segment would be eye-opening on the effect of construction material price on new housing price.
+        - Finally, we can see there exists a delayed in change of rate between the IPPI and NHPI of Canada and the provinces. Thus, carrying out the cross-correlation analysis between IPPI and NHPI time series during this time segment would be eye-opening on the effect of construction material price on new housing price.
 
 # Future work
 - Change normalization method to a more accurate one
