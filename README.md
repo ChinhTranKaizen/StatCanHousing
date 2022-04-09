@@ -1,3 +1,6 @@
+My Tableau visualization for this project can be found here:
+https://public.tableau.com/app/profile/chinh.tran3837/viz/CanadaNewHousingPriceIndex/Dashboard1
+https://public.tableau.com/app/profile/chinh.tran3837/viz/CanadaNewHousingPriceIndex_Cities/Dashboard1
 
 
 # Motivation
