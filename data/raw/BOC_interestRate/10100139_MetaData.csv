@@ -1,5 +1,5 @@
 ﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
-"Bank of Canada, money market and other interest rates","10100139","176-0048","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010013901",1,"CURRENT - a cube available to the public and that is current","Daily","1981-02-06","2022-02-10","2",
+"Bank of Canada, money market and other interest rates","10100139","176-0048","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010013901",1,"CURRENT - a cube available to the public and that is current","Daily","1960-07-22","2022-05-02","2",
 
 "Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
 "1","Geography",,""
